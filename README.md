@@ -53,4 +53,4 @@ The end point should return the food titles in JSON format
 
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Google Javascript Guidelines](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions. [Shubham](mailto:shubham.goyal@holmusk.com) or [Manak](mailto:manak.kapoor@holmusk.com)
+* More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions. [Shubham](mailto:shubham.goyal@holmusk.com) or [Trieu](mailto:hongtrieu.le@holmusk.com)
