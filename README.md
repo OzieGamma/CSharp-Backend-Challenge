@@ -1,4 +1,4 @@
-# Backend-Developer-Challenge
+# C#-Backend-Developer-Challenge
 
 `version 1.0`
 `challenge status: open`
@@ -7,11 +7,11 @@ Welcome! We've been expecting you. Holmusk is a big data based high tech company
 
 If you're someone who bleeds code and aches to make a difference in the world, then you are at the right place. You will be part of a world‑class team working on the most exciting ground‑breaking technology in an inspiring and collaborative environment.
 
-####Javascript in this document usually means node.js
+####C# in this document refers to [C# 6.0](https://www.simple-talk.com/dotnet/.net-framework/whats-new-in-c-6/)
 
 ## Basics
 
-This is the Holmusk backend developer challenge. The rules of the challenge are very simple and are as follows
+This is the Holmusk C# backend developer challenge. The rules of the challenge are very simple and are as follows
 
 * You are required to code in javascript
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
